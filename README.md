@@ -15,9 +15,9 @@ git remote add origin https://github.com/Rahul7k/GithubDocs.git
 git branch -M main
 git push -u origin main
 
-To Add Into Existing repository
-open VS Code -> Go to Source control -> Commit using ✔ Sign -> Now run below commands in VS Code terminal
-git remote add origin https://github.com/Rahul7k/Taazaa-Training.git
-git branch -M main
-git pull --rebase origin main
-git push origin main
+To Add Into Existing repository<br />
+open VS Code -> Go to Source control -> Commit using ✔ Sign -> Now run below commands in VS Code terminal<br />
+git remote add origin https://github.com/Rahul7k/Taazaa-Training.git<br />
+git branch -M main<br />
+git pull --rebase origin main<br />
+git push origin main<br />
