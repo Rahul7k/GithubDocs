@@ -3,6 +3,7 @@
 
 To Add Into Existing repository<br />
 open VS Code -> Go to Source control -> Commit using ✔ Sign -> Now run below commands in VS Code terminal<br />
+git init . <br />
 git remote add origin https://github.com/Rahul7k/Taazaa-Training.git<br />
 git branch -M main<br />
 git pull --rebase origin main<br />
